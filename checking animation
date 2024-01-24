@@ -1,0 +1,23 @@
+<!Doctype HTML>
+<html>
+ <div>
+  <div class="box2" style="
+    .box2 {
+        width: 700px;
+        height: 700px;
+        position: relative;
+        background-color: red;
+        display: flex;
+    }
+  "></div>
+  <div class="box1" style="
+    .box1 {
+        width: 700px;
+        height: 700px;
+        position: absolute;
+        background-color: red;
+        display: flex;
+    }
+  "></div>
+ </div>
+</html>
